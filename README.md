@@ -1,0 +1,2 @@
+# python_learning
+とある中学生のpython基礎文法学習用リポジトリ
